@@ -9,8 +9,8 @@
 
 SAÉ au sein de laquelle la ressource peut être mobilisée et combinée :
 
-- SAÉ 5.AII.01 | Intégration d’outils communicants et numériques dans un système automatisé industriel
-- PORTFOLIO | Portfolio
+- SAÉ 5.AII.01 : Intégration d’outils communicants et numériques dans un système automatisé industriel
+- PORTFOLIO : Portfolio
 
 ## Descriptif :
 
@@ -37,18 +37,18 @@ Les thèmes recommandés à développer pour atteindre les acquis d’apprentiss
 
 ## Apprentissages critiques ciblés :
 
-- AC31.01 | Contribuer à la rédaction d’un cahier des charges
-- AC31.02 | Prouver la pertinence de ses choix technologiques
-- AC31.03 | Rédiger un dossier de conception
-- AC32.01 | Évaluer la cause racine d’un dysfonctionnement
-- AC32.02 | Proposer une solution corrective à un dysfonctionnement
-- AC32.03 | Produire une procédure d’essais pour valider la conformité d’un système
-- AC33.01 | Proposer une solution de maintenance
-- AC33.02 | Évaluer les coûts d’indisponibilité et de maintenance d’un système
-- AC33.03 | Proposer un appui technique aux différents acteurs à l’échelle nationale et internationale
-- AC34.01AII | Planifier l’installation et la mise en service d’un nouvel équipement
-- AC34.02AII | Produire une procédure d’installation et de mise en service d’un système
-- AC34.03AII | Produire le dossier de conformité du système en gérant le versionnage
+- AC31.01 : Contribuer à la rédaction d’un cahier des charges
+- AC31.02 : Prouver la pertinence de ses choix technologiques
+- AC31.03 : Rédiger un dossier de conception
+- AC32.01 : Évaluer la cause racine d’un dysfonctionnement
+- AC32.02 : Proposer une solution corrective à un dysfonctionnement
+- AC32.03 : Produire une procédure d’essais pour valider la conformité d’un système
+- AC33.01 : Proposer une solution de maintenance
+- AC33.02 : Évaluer les coûts d’indisponibilité et de maintenance d’un système
+- AC33.03 : Proposer un appui technique aux différents acteurs à l’échelle nationale et internationale
+- AC34.01AII : Planifier l’installation et la mise en service d’un nouvel équipement
+- AC34.02AII : Produire une procédure d’installation et de mise en service d’un système
+- AC34.03AII : Produire le dossier de conformité du système en gérant le versionnage
 
 ## Mots clés :
 
