@@ -1,3 +1,15 @@
 baseURL: 'https://r5.07-base-de-donnees.gitlab.io/cours/'
 languageCode: fr-fr
 title: R5.07 Base de données
+enableRobotsTXT: true
+sectionPagesMenu: main
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      attribute:
+        block: true
+  highlight:
+    style: monokailight
+    tabWidth: 2
