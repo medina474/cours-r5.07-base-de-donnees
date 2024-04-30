@@ -10,11 +10,12 @@
 SAÉ au sein de laquelle la ressource peut être mobilisée et combinée :
 
 - SAÉ 5.AII.01 : Intégration d’outils communicants et numériques dans un système automatisé industriel
-- PORTFOLIO : Portfolio
+- PORTFOLIO
 
 ## Descriptif :
 
-Acquis d’apprentissages visés
+**Acquis d’apprentissages visés**
+
 À l’issue de cette ressource, l’étudiant doit être capable de :
 
 - Exploiter une base de données.
@@ -24,16 +25,16 @@ Acquis d’apprentissages visés
 Les thèmes recommandés à développer pour atteindre les acquis d’apprentissage visés sont :
 
 - Bases de données :
-- Introduction aux bases de données relationnelles ;
-- Tables, schémas relationnels ;
-- Requêtes SQL de base ;
-- Base de données noSQL.
+  - Introduction aux bases de données relationnelles ;
+  - Tables, schémas relationnels ;
+  - Requêtes SQL de base ;
+  - Base de données noSQL.
 - Introduction à l’IoT :
-- Architectures IoT (Extreme edge/edge/mist/fog/cloud, passerelle) ;
-- Communication indirecte orientée message (Publier/Souscrire, broker, MQTT) ;
-- Gestion de la qualité de service (QoS) ;
-- Notions d’API (déclaration, appel de services) ;
-- Tableau de bord (node-red, grafana...).
+  - Architectures IoT (Extreme edge/edge/mist/fog/cloud, passerelle) ;
+  - Communication indirecte orientée message (Publier/Souscrire, broker, MQTT) ;
+  - Gestion de la qualité de service (QoS) ;
+  - Notions d’API (déclaration, appel de services) ;
+  - Tableau de bord (node-red, grafana...).
 
 ## Apprentissages critiques ciblés :
 
@@ -57,3 +58,11 @@ Base de données - requêtes SQL
 ## Volume horaire :
 
 Volume horaire défini nationalement : 14 heures dont 8 heures de TP
+
+CM 2h - 13/09/2023 ()
+TD 2h - 13/09/2023 ()
+TD 2h - 20/09/2023 (ER Camion)
+TP 4h - 20/09/2023 (SQLite)
+TP 4h - 23/09/2023 (SQLite C)
+TP 4h - 27/09/2023 (SQLite C + Docker)
+TP 4h - 30/09/2023 (UDP + InfluxDB)
