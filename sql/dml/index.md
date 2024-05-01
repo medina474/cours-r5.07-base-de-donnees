@@ -1,7 +1,7 @@
 ---
 title: "DML"
 date: 2023-08-26T13:15:51+02:00
-draft: false
+published: true
 ---
 
 Langage de manipulation des données (DML) - Le langage de manipulation des données est le sous-langage qui permet d'ajouter, de modifier ou de supprimer des données dans une base de données. En SQL, il correspond aux langages INSERT, UPDATE et DML. DELETE

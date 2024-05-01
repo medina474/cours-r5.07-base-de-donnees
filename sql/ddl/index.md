@@ -1,7 +1,7 @@
 ---
 title: "DDL"
 date: 2023-08-26T13:15:51+02:00
-draft: false
+published: true
 ---
 
 Langage de définition des données (DDL) - Le langage de définition des données est le sous-langage chargé de définir la manière dont les données sont structurées dans une base de données. En SQL, cela correspond à la manipulation des tables par l'intermédiaire de CREATE TABLE, ALTER TABLE, et DROP TABLE

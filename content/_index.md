@@ -1,7 +1,7 @@
 ---
 title: "Base de données"
 date: 2023-08-26T13:15:51+02:00
-draft: false
+published: true
 ---
 
 Dans toutes applications il est important de stocker et d'exploiter les données recoltées.

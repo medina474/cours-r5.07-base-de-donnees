@@ -1,7 +1,7 @@
 ---
 title: "Travaux dirigés"
 date: 2023-08-26T13:15:51+02:00
-draft: false
+published: true
 ---
 
 ## Schéma entités-relations
